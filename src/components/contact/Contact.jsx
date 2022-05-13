@@ -12,7 +12,7 @@ const Contact = () => {
   return (
     <div className="contact" id="contact">
       <div className="left">
-        <img href="assets/shake.svg" alt="shaking hands" />
+        <img src="assets/shake/svg" alt="shaking hands" />
       </div>
       <div className="right">
         <h2>Contact.</h2>
