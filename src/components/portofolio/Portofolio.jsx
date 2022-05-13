@@ -23,7 +23,7 @@ const Portofolio = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <h3>To DO list on React</h3>
+            <h3>To Do list on React</h3>
           </a>
         </div>
       </div>

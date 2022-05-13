@@ -12,7 +12,7 @@ const Intro = () => {
           <div className="button">
             <a href="Manois_JulienCV.pdf" download="Manois Julien CV.pdf">
               <button className="btn btn-primary btn-lg">
-                Get my resume here!
+                GET MY RESUME
               </button>
             </a>
           </div>

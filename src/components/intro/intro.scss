@@ -3,6 +3,7 @@
 .intro {
   background-color: white;
   display: flex;
+  flex-wrap: wrap;
 
   @include mobile {
     flex-direction: column;
@@ -21,7 +22,7 @@
         background-color: $mainColor;
       }
       button:hover {
-        color: rgb(225, 135, 0);
+        color: $hoverColor;
       }
     }
     .social-icons {
@@ -38,7 +39,7 @@
       }
 
       .icon:hover {
-        color: rgb(225, 135, 0);
+        color: $hoverColor;
       }
     }
   }
