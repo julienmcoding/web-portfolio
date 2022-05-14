@@ -7,6 +7,11 @@ import Typewriter from "typewriter-effect";
 const Intro = () => {
   return (
     <div className="intro" id="intro">
+      <section class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+      </section>
       <div className="left">
         <div className="button-resume">
           <a href="Manois_JulienCV.pdf" download="Manois Julien CV.pdf">
