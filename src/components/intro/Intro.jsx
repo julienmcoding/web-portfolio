@@ -8,14 +8,10 @@ const Intro = () => {
   return (
     <div className="intro" id="intro">
       <div className="left">
-        <div className="imgContainer">
-          <div className="button">
-            <a href="Manois_JulienCV.pdf" download="Manois Julien CV.pdf">
-              <button className="btn btn-primary btn-lg">
-                GET MY RESUME
-              </button>
-            </a>
-          </div>
+        <div className="button-resume">
+          <a href="Manois_JulienCV.pdf" download="Manois Julien CV.pdf">
+            <button className="btn btn-primary btn-lg">GET MY RESUME</button>
+          </a>
         </div>
         <div className="social-icons">
           <a
@@ -34,7 +30,7 @@ const Intro = () => {
           </a>
         </div>
       </div>
-      <div className="div right">
+      <div className="right">
         <div className="wrapper">
           <h2>Hi There, I'm</h2>
           <h1>Julien Manois,</h1>
@@ -56,9 +52,6 @@ const Intro = () => {
             </span>
           </h3>
         </div>
-        <a href="#portofolio">
-          <img src="assets/down.png" alt="" />
-        </a>
       </div>
     </div>
   );

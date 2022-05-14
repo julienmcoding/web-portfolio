@@ -5,7 +5,7 @@ const Portofolio = () => {
   return (
     <div className="portofolio" id="portofolio">
       <h1>My Recent Work</h1>
-      <div className="container">
+      <div className="container-portfolio">
         <div className="item">
           <img src="assets/inspirational-quote.png" alt="inspiration-quote" />
           <a
@@ -28,9 +28,6 @@ const Portofolio = () => {
         </div>
       </div>
       <h2>And much more to come...</h2>
-      <a className="arrow-link" href="#contact">
-        <img className="arrow" src="assets/down.png" alt="" />
-      </a>
     </div>
   );
 };
