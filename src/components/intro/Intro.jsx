@@ -14,8 +14,8 @@ const Intro = () => {
       </section>
       <div className="left">
         <div className="button-resume">
-          <a href="Manois_JulienCV.pdf" download="Manois Julien CV.pdf">
-            <button className="btn btn-primary btn-lg">GET MY RESUME</button>
+          <a href="assets/Manois_JulienCV.pdf" download="Manois Julien CV.pdf">
+            <button className="btn btn-primary btn-lg">Get my resume</button>
           </a>
         </div>
         <div className="social-icons">
