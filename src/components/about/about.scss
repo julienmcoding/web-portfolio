@@ -11,7 +11,7 @@
     margin: 1% 7%;
 
     .code-about {
-      font-family: 'La Belle Aurore', cursive;
+      font-family: "La Belle Aurore", cursive;
       font-size: 3.5rem;
       color: $hoverColor;
     }
@@ -41,6 +41,7 @@
     }
 
     .p-about {
+      font-family: "Rock Salt", cursive;
       font-size: 1.4rem;
       margin: 10px;
 
@@ -58,6 +59,11 @@
         margin: 30px;
         width: 5rem;
         height: 5rem;
+        box-shadow: 0 0 25px rgba(45, 49, 66, 0.15);
+        transform: 300s;
+
+        .icon:hover {
+        translate: y - 4px; }
 
         @include mobile {
           margin: 10px;
