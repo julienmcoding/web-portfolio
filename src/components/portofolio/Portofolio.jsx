@@ -19,7 +19,7 @@ const Portofolio = () => {
         <div className="item">
           <img src="assets/calculator.png" alt="calculator" />
           <a
-            href="https://calculator-fumk86nai-julienmcoding.vercel.app/"
+            href="https://calculator-omega-beige.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
