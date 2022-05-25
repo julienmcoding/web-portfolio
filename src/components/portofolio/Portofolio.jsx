@@ -7,6 +7,16 @@ const Portofolio = () => {
       <h1>My Recent Work</h1>
       <div className="container-portfolio">
         <div className="item">
+          <img src="assets/drum-machine.png" alt="drum-machine" />
+          <a
+            href="https://drum-machine-lac.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <h3>Drum Machine</h3>
+          </a>
+        </div>
+        <div className="item">
           <img src="assets/travel-app.png" alt="travel-app" />
           <a
             href="https://travel-companion-six.vercel.app/"
