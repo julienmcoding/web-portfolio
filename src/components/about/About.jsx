@@ -17,6 +17,7 @@ const About = () => {
           <h2 className="code-about head1">about</h2>
           <p className="p-about">
             A future React Rock Start ! 
+            I want to help the community, improve myself and do something that has a meaning.
           </p>
           <h2 className="code-about head2">about</h2>
       </div>
