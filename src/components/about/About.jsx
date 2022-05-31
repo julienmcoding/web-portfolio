@@ -16,11 +16,7 @@ const About = () => {
       <div className="up">
           <h2 className="code-about head1">about</h2>
           <p className="p-about">
-            React - Node.JS developer who cares deeply about user experience and
-            improving his skills. I am eager to learn new things and work on
-            awesome projects with amazing people! (We all are). My variety of
-            professional experiences makes me a very versatile person capable of
-            adapting very quickly and resisting changing contexts.
+            A future React Rock Start ! 
           </p>
           <h2 className="code-about head2">about</h2>
       </div>
